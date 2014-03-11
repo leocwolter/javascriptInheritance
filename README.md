@@ -1,6 +1,6 @@
 Results:
 
-Instantiating 1000000x a child object(childInstanceBench/bench.js):
+Instantiating 1000000x a child object(childInstanceBench.js):
 
 Parasitic:
 348
@@ -12,7 +12,7 @@ Functional:
 
 ---
 
-Instantiating 1000000x a parent object(parentInstanceBench/bench.js):
+Instantiating 1000000x a parent object(parentInstanceBench.js):
 
 Parasitic:
 14
@@ -24,7 +24,7 @@ Functional:
 ---
 
 
-Calling a method 1000000x at a child object(childMethodBench/bench.js):
+Calling a method 1000000x at a child object(childMethodBench.js):
 
 Parasitic:
 106
@@ -36,7 +36,7 @@ Functional:
 
 ---
 
-Calling a method 1000000x at a parent object(parentMethodBench/bench.js):
+Calling a method 1000000x at a parent object(parentMethodBench.js):
 
 Parasitic:
 56
