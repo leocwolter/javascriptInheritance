@@ -1,0 +1,2 @@
+require("./benchParasitic");
+require("./benchPseudo");
