@@ -32,4 +32,4 @@ var pessoaFisica =  function(nome, idade, cpf){
 	return that;
 }
 
-module.exports = pessoaFisica;
+module.exports = {pessoaFisica: pessoaFisica, pessoa: pessoa};

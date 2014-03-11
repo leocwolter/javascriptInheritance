@@ -31,5 +31,4 @@ PessoaFisica.prototype.outro = function(){
 	return "esse foi só pra testar!";
 }
 
-
-module.exports = PessoaFisica;
+module.exports = {PessoaFisica: PessoaFisica, Pessoa: Pessoa};

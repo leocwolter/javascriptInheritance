@@ -55,4 +55,5 @@ var PessoaFisica = newObject({
 	}
 });
 
-module.exports = PessoaFisica;
+
+module.exports = {PessoaFisica: PessoaFisica, Pessoa: Pessoa};
