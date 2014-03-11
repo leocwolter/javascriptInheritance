@@ -56,21 +56,3 @@ var PessoaFisica = newObject({
 });
 
 module.exports = PessoaFisica;
-
-// var Cachorro = newObject({
-// 	constructor: function(nome){
-// 		this.nome = nome;
-// 	},
-
-// 	methods: {
-// 		late: function(){
-// 			return "au "+this.nome;
-// 		}
-// 	}
-// });
-
-// var bob = new Cachorro("bob");
-// console.log(bob.late());
-
-
-
