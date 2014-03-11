@@ -1,4 +1,4 @@
-var BenchRunner = function(){
+var BenchExecutor = function(){
 	const TIMES = 1000 * 1000;
 
 	var startTime;
@@ -22,4 +22,4 @@ var BenchRunner = function(){
 	return {run: run};
 }
 
-module.exports = new BenchRunner();
+module.exports = new BenchExecutor();
