@@ -1,6 +1,6 @@
+var parasitic = require("../ParasiticCombination");
 var functional = require("../Functional");
 var pseudo = require("../PseudoClassic");
-var parasitic = require("../ParasiticCombination");
 var benchRunner = require("../benchExecutor");
 
 console.log("Parasitic:");

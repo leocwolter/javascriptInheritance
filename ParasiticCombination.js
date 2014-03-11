@@ -55,5 +55,4 @@ var PessoaFisica = newObject({
 	}
 });
 
-
 module.exports = {PessoaFisica: PessoaFisica, Pessoa: Pessoa};
